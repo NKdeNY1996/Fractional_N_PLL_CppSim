@@ -1,0 +1,4 @@
+--- Simulink Block 'PLL_locked_state_s' ---
+Parameters:  Ts, pfd_freq, pfd_reset_delay, pfd_down_xdelay, icp, icp_error, icp_thermal_noise_up, icp_thermal_noise_down, icp_flicker_corner_freq_up, icp_flicker_corner_freq_down, s_and_h_en, fpole1, fzero, fgain, fpole2, vco_fc, vco_kv, vco_foffset, vco_noise_at_foffset, a0, a1, a2, a3, a4, a5, a6, a7, pre_gain, settle_sample
+Inputs:  icp_offset, div_val
+Outputs:  vin, icp_out, sineout, noiseout, out, s_h_out, poly_out
